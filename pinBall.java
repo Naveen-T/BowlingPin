@@ -37,5 +37,6 @@ for(i=0; i<10; i++){
         }
         one++;
         two++;
-  }
+    }
+    System.output.println("Total Score in the game" + sum);                              
 }
